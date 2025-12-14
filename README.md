@@ -1,5 +1,4 @@
 # Software engineering
-ddddd
 
 ## Tabulka
 | Left columns  | Right columns |
